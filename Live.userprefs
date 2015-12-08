@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Live/Live.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Live/MainPageViewController.cs">
+    <Files>
+      <File FileName="Live/ViewControllers/ViewController.cs" Line="41" Column="4" />
+      <File FileName="Live/MainPageViewController.cs" Line="107" Column="4" />
+      <File FileName="Live/ViewControllers/CameraViewController.cs" Line="300" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
